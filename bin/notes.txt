@@ -1,0 +1,14 @@
+I installed FreeBASIC which is a compiler for BASIC.
+
+In order to install it I just went to http://www.freebasic.net/ and
+installed it to my desktop because if you install it to the file directory they specify
+it requires you to run everything as administrative.
+
+After that I wrote a BASIC file and then ran the open-console.exe and ran the commands:
+
+fbc.exe examples\TestForProject.bas
+example\TestForProject.exe
+
+This runs the project.
+
+Documentation: http://www.freebasic.net/wiki/wikka.php?wakka=DocToc

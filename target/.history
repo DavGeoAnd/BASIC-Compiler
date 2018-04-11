@@ -1,0 +1,4 @@
+run-main csp.ch03.Project
+compile
+run-main csp.ch03.Project
+exit
